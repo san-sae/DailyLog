@@ -10,7 +10,8 @@ const AppLayout = ({ children }) => {
 
 export default AppLayout;
 
-// 스타일 컴포넌트
+
+
 const AppWrapper = styled.div`
   width: 100%;
   height: 100vh;
