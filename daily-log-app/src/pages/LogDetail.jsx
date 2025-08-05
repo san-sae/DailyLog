@@ -1,11 +1,11 @@
 import AppLayout from "./../components/AppLayout.jsx";
 
-const Main = () => {
+const LogDetail = () => {
     return (
         <AppLayout>
-            <h1>메인 페이지</h1>
+            <h1>로그 상세 페이지</h1>
         </AppLayout>
     );
 }
 
-export default Main;
+export default LogDetail;
